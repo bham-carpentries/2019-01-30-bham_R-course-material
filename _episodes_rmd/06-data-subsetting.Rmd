@@ -682,6 +682,7 @@ gapminder[3,]
 But for a single column the result will be a vector (this can
 be changed with the third argument, `drop = FALSE`).
 
+
 > ## Challenge 7
 >
 > Fix each of the following common data frame subsetting errors:
